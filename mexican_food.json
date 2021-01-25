@@ -1,0 +1,202 @@
+[
+{
+  "popular": [
+  {
+    "id": 1,
+    "name": "Beef Burritos",
+    "type": "Real",
+    "photograph": "beef_burritos",
+    "description": "",
+	"price": "135",
+	"rating": "4.5"
+    },
+	{
+	"id": 2,
+    "name": "Beef Chili",
+    "type": "Real",
+    "photograph": "beef_chili",
+    "description": "",
+	"price": "90",
+	"rating": "4.7"
+    },
+	{
+	"id": 3,
+    "name": "Beef Tacos",
+    "type": "Real",
+    "photograph": "beef_tacos",
+    "description": "",
+	"price": "90",
+	"rating": "4.9"
+    },
+	{
+	"id": 4,
+    "name": "Chicken_Burritos",
+    "type": "Real",
+    "photograph": "chicken_burritos",
+    "description": "",
+	"price": "115",
+	"rating": "4.3"
+    },
+	{
+	"id": 5,
+    "name": "Chicken Enchiladas",
+    "type": "Real",
+    "photograph": "chicken_enchiladas",
+    "description": "",
+	"price": "90",
+	"rating": "4.1"
+    },
+	],
+	"recommended" : [
+	{
+	"id": 6,
+    "name": "Chicken Fajitas",
+    "type": "Real",
+    "photograph": "chicken_fajitas",
+    "description": "",
+	"price": "95",
+	"rating": "4.6"
+    },
+	{"id": 7,
+    "name": "Chicken Tacos",
+    "type": "Real",
+    "photograph": "chicken_tacos",
+    "description": "",
+	"price": "95",
+	"rating": "4.5"
+    },
+	{"id": 8,
+    "name": "Chicken Tamales",
+    "type": "Real",
+    "photograph": "chicken_tamales",
+    "description": "",
+	"price": "100",
+	"rating": "4.2"
+    },
+	{"id": 9,
+    "name": "Chicken Tostadas",
+    "type": "Real",
+    "photograph": "chicken_tostadas",
+    "description": "",
+	"price": "90",
+	"rating": "4.5"
+    },
+	{"id": 10,
+    "name": "Chili Con Carne",
+    "type": "Real",
+    "photograph": "chili_con_carne",
+    "description": "",
+	"price": "75",
+	"rating": "4.7"
+    },
+	{"id": 11,
+    "name": "Churros",
+    "type": "Dessert",
+    "photograph": "churros",
+    "description": "",
+	"price": "50",
+	"rating": "4.4"
+    },
+	{"id": 12,
+    "name": "Nachos",
+    "type": "Real",
+    "photograph": "nachos",
+    "description": "",
+	"price": "70",
+	"rating": "4.8"
+    }
+	{
+	"id": 13,
+    "name": "Nachos with Guacamole",
+    "type": "Real",
+    "photograph": "nachos_guacamole",
+    "description": "",
+	"price": "80",
+	"rating": "4.9"
+    }
+	],
+	"vegan" : [
+	{
+	"id": 14,
+    "name": "Pork Tacos",
+    "type": "Real",
+    "photograph": "pork_tacos",
+    "description": "",
+	"price": "80",
+	"rating": "4.4"
+    },
+	{
+	"id": 15,
+    "name": "Stuffed Poblanos",
+    "type": "Real",
+    "photograph": "stuffed_poblanos",
+    "description": "",
+	"price": "90",
+	"rating": "3.8"
+    },
+	{
+	"id": 16,
+    "name": "Vegan Fajitas",
+    "type": "Vegan",
+    "photograph": "vegan_fajitas",
+    "description": "",
+	"price": "75",
+	"rating": "4.7"
+    },
+	{
+	"id": 17,
+    "name": "Vegan Nachos",
+    "type": "Vegan",
+    "photograph": "vegan_nachos",
+    "description": "",
+	"price": "70",
+	"rating": "4.2"
+    },
+	{
+	"id": 18,
+    "name": "Vegan Tacos",
+    "type": "Vegan",
+    "photograph": "vegan_tacos",
+    "description": "",
+	"price": "80",
+	"rating": "4.0"
+    },
+	{
+	"id": 19,
+    "name": "Cajeta Crepes",
+    "type": "Dessert",
+    "photograph": "cajeta_crepes",
+    "description": "",
+	"price": "70",
+	"rating": "4.4"
+    },
+	{
+	"id": 19,
+    "name": "Chocolate Taco",
+    "type": "Dessert",
+    "photograph": "chocolate_taco",
+    "description": "",
+	"price": "75",
+	"rating": "5.0"
+    },
+	{
+	"id": 20,
+    "name": "Cinnamon Baked Apples",
+    "type": "Dessert",
+    "photograph": "cinnamon_apples",
+    "description": "",
+	"price": "65",
+	"rating": "4.6"
+    },
+	{
+	"id": 21,
+    "name": "Vegan Quesadillas",
+    "type": "Vegan",
+    "photograph": "vegan_quesadillas",
+    "description": "",
+	"price": "95",
+	"rating": "4.7"
+    }
+	]
+  }
+  ]
